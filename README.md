@@ -11,7 +11,6 @@
 ## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mateo951)
 
-### 📊 **Working on..**
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
