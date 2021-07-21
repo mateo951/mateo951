@@ -14,6 +14,8 @@
 📊 **Working on..**
 
 <!--START_SECTION:waka-->
-![stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mateo951&hide_title=true&hide_border=true&langs_count=5)
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
