@@ -11,11 +11,8 @@
 # Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mateo951)
 
-📊 **Working on..**
-
+### 📊 **Working on..**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
 
