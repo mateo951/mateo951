@@ -12,32 +12,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mateo951)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 205 Contributions in the Year 2021
- > 
-> 📦 20.3 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 34 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 21/07/2021
 <!--END_SECTION:waka-->
 
