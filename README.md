@@ -8,7 +8,7 @@
 
 ### About me 
 - :video_game: I’m currently developing two games for mobile :calendar: Q1 2022 😉
-- 🌱 I’m learning JS, React, Ruby, Rails :open_book: 
+- 🌱 Learning JS, React, Ruby, Rails :open_book: 
 - ⚡ Fun fact: Love everything about football (NOT this one :football::roll_eyes:, :point_right::soccer::point_left:) and playing games :nerd_face:
 
 ##
