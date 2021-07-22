@@ -13,9 +13,10 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=mateo951&layuout=compact&v=2) -->
 
-🔭 I’m currently working on something cool 😉
-🌱 I’m currently learning Flutter, Go
-💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-📫 How to reach me: @gautamkrishnar or fosstodon.org/@gkr
-⚡ Fun fact: I ❤️ 🐶s
+
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning Flutter, Go
+- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 📫 How to reach me: @gautamkrishnar or fosstodon.org/@gkr
+- ⚡ Fun fact: I ❤️ 🐶s
 
