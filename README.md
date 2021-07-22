@@ -82,8 +82,16 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 **Timeline**
+---
 
-![Chart not found](https://raw.githubusercontent.com/mateo951/mateo951/main/charts/bar_graph.png) 
+<h3 align="center">My Github Stats</h3>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mateo951&v=2)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateo951&layout=compact" alt="mateo951" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mateo951&layuout=compact&v=2" alt="mateo951" /></p>
+
+---
+
+
+
+
 <!--END_SECTION:waka-->
