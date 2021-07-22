@@ -14,7 +14,8 @@
 ##
 ###	:bar_chart: Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=mateo951&layout=compact) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateo951&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateo951&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=mateo951&layuout=compact&v=2)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=mateo951&layuout=compact&v=2) -->
+<!--  -->
 
