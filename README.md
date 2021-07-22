@@ -85,5 +85,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 ![Chart not found](https://raw.githubusercontent.com/mateo951/mateo951/main/charts/bar_graph.png) 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mateo951)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mateo951&v=2)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
