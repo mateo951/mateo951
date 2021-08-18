@@ -13,7 +13,7 @@
 
 ##
 ###	:bar_chart: Github Stats
-![](https://github-readme-stats.vercel.app/api?username=mateo951&layout=compact) <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateo951)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateo951&layout=compact) <br>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=mateo951&layuout=compact&v=2)
 
