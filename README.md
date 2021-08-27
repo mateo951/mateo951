@@ -7,18 +7,19 @@
 - #### Indie [games](https://andean-studio.itch.io)
 
 ### About me 
-- :video_game: I’m currently developing two games for mobile :calendar: Q1 2022 😉
-- 🌱 Learning JS, React, Ruby, Rails :open_book: 
-- ⚡ Fun fact: Love everything about football (NOT this one :football::roll_eyes:, :point_right::soccer::point_left:) and playing games :nerd_face:
-
 ```javascript
 let Mateo = {
   code: ['C#', 'Javascript', 'Ruby(Coming Soon)','Python(Coming Soon), Swift'],
   tools: [React(Coming Soon)],
   challenges: "Currently becoming a full-stack dev as a Microverse student!
-               Developing two games that will be published in Q2 2022"
+               Developing two games that will be published in Q2 2022",
+  status:     "Available for hire"
 }
 ```
+
+- :video_game: I’m currently developing two games for mobile :calendar: Q1 2022 😉
+- 🌱 Learning JS, React, Ruby, Rails :open_book: 
+- ⚡ Fun fact: Love everything about football (NOT this one :football::roll_eyes:, :point_right::soccer::point_left:) and playing games :nerd_face:
 
 ##
 ###	:bar_chart: Github Stats
