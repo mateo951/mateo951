@@ -10,7 +10,7 @@
 ```javascript
 let Mateo = {
   code: ['C#', 'Javascript', 'Ruby(Coming Soon)','Python(Coming Soon), Swift'],
-  tools: [React(Coming Soon)],
+  tools: [React],
   challenges: "Currently becoming a full-stack dev as a Microverse student!
                Developing two games that will be published in Q2 2022",
   status:     "Available for hire"
