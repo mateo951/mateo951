@@ -9,7 +9,7 @@
 ### About me 
 ```javascript
 let Mateo = {
-  code: ['C#', 'Javascript', 'Ruby(Coming Soon)','Python(Coming Soon), Swift'],
+  code: ['C#', 'Javascript', 'Ruby','Python(Coming Soon), Swift'],
   tools: [React, Redux],
   challenges: "Currently becoming a full-stack dev as a Microverse student!
                Developing two games that will be published in Q2 2022",
